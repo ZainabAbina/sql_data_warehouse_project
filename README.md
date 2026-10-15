@@ -32,3 +32,5 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project is licensed under MIT Lisense (LISENSE). You are free to use, modify amd share this project
 
 ### About Me
+Business experience. Scientific curiosity. Data-driven thinking. I'm Zainab, currently building my expertise in data analytics and business intelligence with SQL, Excel, & Power BI
+
